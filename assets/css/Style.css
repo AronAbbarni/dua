@@ -1,0 +1,13 @@
+.background_form{
+    background-image: url(images/laundry.jpg);
+    background-size: cover;
+}
+
+.position {
+    position: relative;
+    right: 100px;
+  }
+
+.background-regist {
+    background-image: url('.../assets/images/backgroundregistrasi.jpg');
+}
